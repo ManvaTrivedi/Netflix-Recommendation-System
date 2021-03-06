@@ -1,0 +1,2 @@
+# Netflix-Recommendation-System
+Netflix is an organization that maintains a vast range of TV shows and videos, distributing them online which are accessible anytime. To keep the users glued to the platform without losing interest, providing suggestions to the users becomes essential.  Netflix Recommendation System helps to increase customer engagement, user satisfaction, and to better understand what the user wants. This system recommends movies most popular to the users based on most-watched movies &amp; having high ratings.
